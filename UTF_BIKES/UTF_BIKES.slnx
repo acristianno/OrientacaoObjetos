@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="UTF_BIKES.Console/UTF_BIKES.Console.csproj" />
+  <Project Path="UTF_BIKES.Menu/UTF_BIKES.Menu.csproj" />
+  <Project Path="UTF_BIKES.Negocio/UTF_BIKES.Negocio.csproj" />
+  <Project Path="UTF_BIKES.Persistencia/UTF_BIKES.Persistencia.csproj" />
+</Solution>
